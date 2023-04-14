@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1, h2 {
+    color: #0077c2;
+    text-align: center;
+  }
+  
+  .image-profile{
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .personal-info {
+    background-color: #a49cdf;
+  }
+  
+  .education {
+    background-color: #dc8ccd;
+  }
+  
+  .work-experience {
+    background-color:#e5c0b5;
+  }
+  
+  .skills {
+    background-color:#e8e8c0;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+    padding: 0;
+  }
+  
